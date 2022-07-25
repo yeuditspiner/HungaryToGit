@@ -1,0 +1,10 @@
+C:\Users\user1\Desktop\Hungary_Algorithm_To_Git\Hungary_Algorithm_To_Git\obj\Debug\Hungary_Algorithm_To_Git.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Hungary_Algorithm_To_Git\Hungary_Algorithm_To_Git\obj\Debug\Hungary_Algorithm_To_Git.Properties.Resources.resources
+C:\Users\user1\Desktop\Hungary_Algorithm_To_Git\Hungary_Algorithm_To_Git\obj\Debug\Hungary_Algorithm_To_Git.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\Hungary_Algorithm_To_Git\Hungary_Algorithm_To_Git\obj\Debug\Hungary_Algorithm_To_Git.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Hungary_Algorithm_To_Git\Hungary_Algorithm_To_Git\bin\Debug\Hungary_Algorithm_To_Git.exe.config
+C:\Users\user1\Desktop\Hungary_Algorithm_To_Git\Hungary_Algorithm_To_Git\bin\Debug\Hungary_Algorithm_To_Git.exe
+C:\Users\user1\Desktop\Hungary_Algorithm_To_Git\Hungary_Algorithm_To_Git\bin\Debug\Hungary_Algorithm_To_Git.pdb
+C:\Users\user1\Desktop\Hungary_Algorithm_To_Git\Hungary_Algorithm_To_Git\obj\Debug\Hungary_Algorithm_To_Git.Form1.resources
+C:\Users\user1\Desktop\Hungary_Algorithm_To_Git\Hungary_Algorithm_To_Git\obj\Debug\Hungary_Algorithm_To_Git.exe
+C:\Users\user1\Desktop\Hungary_Algorithm_To_Git\Hungary_Algorithm_To_Git\obj\Debug\Hungary_Algorithm_To_Git.pdb
